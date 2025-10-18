@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Tiffany a first year student at Northeastern University studying computer science. Currently working on a leetcode recommender with a team. 
 
 <!--
 **NUTiffanyUong/NUTiffanyUong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
